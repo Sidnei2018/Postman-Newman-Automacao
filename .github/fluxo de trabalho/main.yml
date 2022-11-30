@@ -1,8 +1,12 @@
 name: Test-API-Newman
 on:
+  schedule:
+  - cron: "0 */6 * * 1-5"
+  
   push:
-    branches:
-      - main
+  branches:
+  - 'main'
+  
 jobs:
   test-api:
     runs-on: ubuntu-latest
