@@ -18,3 +18,5 @@ Após a execução dos testes com Newman e a geração dos resultados, visualiza
 1-O próximo passo é a criação do repositório no GitHub e 0 envio dos arquivos🚀<br>
 2-Criamos um arquivo .YML com os comandos necessários para os testes automatizados da API📝<br>
 3-Os fluxos de trabalho são acionados toda vez que um push é realizado para o repositório principal⚡<br>
+
+![Automacao](https://user-images.githubusercontent.com/28484134/204819107-e644cdf4-79f3-4cdf-a8b4-0e3433362e5b.jpg)<br>
