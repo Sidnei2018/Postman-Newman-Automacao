@@ -1,4 +1,4 @@
-# Postman-Newman-Automacão
+# Postman-Newman-Automacão 🐱‍🏍
 
 Neste exemplo utilizo o postman para a criação do ambiente e da coleção para realizar os testes manuais da API🐞<br>
 
