@@ -1,6 +1,6 @@
 # This is a basic workflow that is manually triggered
  
-name: My workflow
+name: Docker
  
 on: [push]
  
